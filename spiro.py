@@ -3,8 +3,7 @@ spiro.py
 
 A python program that simulates a Sprirograph.
 
-Author: Mahesh Venkitachalam
-Website: electronut.in
+
 """
 
 import sys, random, argparse
