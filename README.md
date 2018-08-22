@@ -1,4 +1,6 @@
-# learning
+# learning--Repository for practicing new stuff
 
-1--some randomized calendar using jdbc 
-2-- a python simonograph
+1--A calendar project having database connectivity to store events using jdbc 
+
+
+2-- a python simonograph---
