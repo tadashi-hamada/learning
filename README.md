@@ -8,7 +8,7 @@
 2-- a python simonograph---
 
 3--Linux program to stimulate fork a parent and child process and to show concurrency in parent and child process
-                p
+                 p
                /   \
               p     c1
              / \   /  \
