@@ -6,3 +6,15 @@
 
 
 2-- a python simonograph---
+
+3--Linux program to stimulate fork a parent and child process and to show concurrency in parent and child process
+                p
+               /   \
+              p     c1
+             / \   /  \
+            p  c2  c1  c3
+              /  \
+             c2   c4
+ 
+ process working concurrently are p,c2,c4,c1and c3
+
