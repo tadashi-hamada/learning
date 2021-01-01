@@ -10,12 +10,12 @@
 
 <h3>Linux program to stimulate fork a parent and child process and to show concurrency in parent and child process</h3>
                  p<br>
-               /  <hr> \<br>
-              p  <hr>   c1<br>
-             /<hr> \ <hr>  / <hr> \<br>
-            p <hr> c2  <hr>c1 <hr> c3<br>
-              / <hr> \<br>
-             c2  <hr> c4<br>
+               /   \<br>
+              p     c1<br>
+             / \   /  \<br>
+            p  c2  c1  c3<br>
+              /  \<br>
+             c2   c4<br>
  
  process working concurrently are p,c2,c4,c1and c3
 
