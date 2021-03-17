@@ -72,54 +72,10 @@
         "Maybe",
         "Don't Know"
       ]
-    },
-    {
-      "category": "General Knowledge",
-      "type": "multiple",
-      "difficulty": "easy",
-      "question": "What is the name of NASA&rsquo;s most famous space telescope?",
-      "correct_answer": "Hubble Space Telescope",
-      "incorrect_answers": [
-        "Big Eye",
-        "Death Star",
-        "Millenium Falcon"
-      ]
-    },
-    {
-      "category": "General Knowledge",
-      "type": "multiple",
-      "difficulty": "easy",
-      "question": "What are Panama hats made out of?",
-      "correct_answer": "Straw",
-      "incorrect_answers": [
-        "Silk",
-        "Hemp",
-        "Flax"
-      ]
-    },
-    {
-      "category": "General Knowledge",
-      "type": "multiple",
-      "difficulty": "easy",
-      "question": "The Canadian $1 coin is colloquially known as a what?",
-      "correct_answer": "Loonie",
-      "incorrect_answers": [
-        "Boolie",
-        "Foolie",
-        "Moodie"
-      ]
-    },
-    {
-      "category": "General Knowledge",
-      "type": "multiple",
-      "difficulty": "easy",
-      "question": "What is the famous Papa John&#039;s last name?",
-      "correct_answer": "Schnatter",
-      "incorrect_answers": [
-        "Chowder",
-        "Williams",
-        "ANDERSON"
-      ]
     }
+    
+    
+    
+    
   ]
 }
