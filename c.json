@@ -1,1 +1,70 @@
-{"response_code":0,"results":[{"category":"General Knowledge","type":"multiple","difficulty":"easy","question":"Where is the train station &quot;Llanfair&shy;pwllgwyngyll&shy;gogery&shy;chwyrn&shy;drobwll&shy;llan&shy;tysilio&shy;gogo&shy;goch&quot;?","correct_answer":"Wales","incorrect_answers":["Moldova","Czech Republic","Denmark"]},{"category":"General Knowledge","type":"multiple","difficulty":"easy","question":"What type of animal was Harambe, who was shot after a child fell into it&#039;s enclosure at the Cincinnati Zoo?","correct_answer":"Gorilla","incorrect_answers":["Tiger","Panda","Crocodile"]},{"category":"General Knowledge","type":"multiple","difficulty":"easy","question":"How many colors are there in a rainbow?","correct_answer":"7","incorrect_answers":["8","9","10"]},{"category":"General Knowledge","type":"multiple","difficulty":"easy","question":"What company developed the vocaloid Hatsune Miku?","correct_answer":"Crypton Future Media","incorrect_answers":["Sega","Sony","Yamaha Corporation"]},{"category":"General Knowledge","type":"multiple","difficulty":"easy","question":"Which of the following is the IATA code for Manchester Airport?","correct_answer":"MAN","incorrect_answers":["EGLL","LHR","EGCC"]},{"category":"General Knowledge","type":"multiple","difficulty":"easy","question":"What is the closest planet to our solar system&#039;s sun?","correct_answer":"Mercury","incorrect_answers":["Mars","Jupiter","Earth"]},{"category":"General Knowledge","type":"multiple","difficulty":"easy","question":"What is the name of NASA&rsquo;s most famous space telescope?","correct_answer":"Hubble Space Telescope","incorrect_answers":["Big Eye","Death Star","Millenium Falcon"]},{"category":"General Knowledge","type":"multiple","difficulty":"easy","question":"What are Panama hats made out of?","correct_answer":"Straw","incorrect_answers":["Silk","Hemp","Flax"]},{"category":"General Knowledge","type":"multiple","difficulty":"easy","question":"The Canadian $1 coin is colloquially known as a what?","correct_answer":"Loonie","incorrect_answers":["Boolie","Foolie","Moodie"]},{"category":"General Knowledge","type":"multiple","difficulty":"easy","question":"What is the famous Papa John&#039;s last name?","correct_answer":"Schnatter","incorrect_answers":["Chowder","Williams","ANDERSON"]}]}
+{
+  "response_code": 0,
+  "results": [
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Confidential Documents can be shared through  public services?",
+      "correct_answer": "Never",
+      "incorrect_answers": [
+        "Yes",
+        "MayBe",
+        "Don't Know"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What should be done to bad media storage devices?",
+      "correct_answer": "Destroyed before disposal",
+      "incorrect_answers": [
+        "Throw It",
+        "Don't Know",
+        "None of the above"
+      ]
+    },
+    
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Should you insert devices that can harm the network or can lead to data breach?",
+      "correct_answer": "Never",
+      "incorrect_answers": [
+        "Can Try",
+        "Sometime",
+        "Yes"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": " Can we connect to public wifi  for company's work?",
+      "correct_answer": "Should use vpn",
+      "incorrect_answers": [
+        "May Be",
+        "Don't Know",
+        "Yes"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Access Website that does not follow company policy? ",
+      "correct_answer": "Never",
+      "incorrect_answers": [
+        "Can Try",
+        "Maybe",
+        "Don't Know"
+      ]
+    }
+    
+    
+    
+    
+  ]
+}
