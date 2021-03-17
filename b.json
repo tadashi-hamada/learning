@@ -5,24 +5,24 @@
       "category": "General Knowledge",
       "type": "multiple",
       "difficulty": "easy",
-      "question": "Confidential Documents can be shared through  public services?",
-      "correct_answer": "Never",
+      "question": "What should you do to spam mail?",
+      "correct_answer": "Delete it",
       "incorrect_answers": [
-        "Yes",
-        "MayBe",
-        "Don't Know"
+        "Open the mail",
+        "Forward it",
+        "Open the attachment"
       ]
     },
     {
       "category": "General Knowledge",
       "type": "multiple",
       "difficulty": "easy",
-      "question": "What should be done to bad media storage devices?",
-      "correct_answer": "Destroyed before disposal",
+      "question": "Can you transmit the works of other people without their permission ?",
+      "correct_answer": "Never",
       "incorrect_answers": [
-        "Throw It",
+        "Can Try",
         "Don't Know",
-        "None of the above"
+        "Yes"
       ]
     },
     
@@ -30,12 +30,12 @@
       "category": "General Knowledge",
       "type": "multiple",
       "difficulty": "easy",
-      "question": "Should you insert devices that can harm the network or can lead to data breach?",
-      "correct_answer": "Never",
+      "question": "Email Services of the company is for bussiness purpose only?",
+      "correct_answer": "Yes",
       "incorrect_answers": [
-        "Can Try",
-        "Sometime",
-        "Yes"
+        "Can Use it as a personal mail",
+        "Don't Know",
+        "Maybe"
       ]
     },
     {
@@ -54,12 +54,12 @@
       "category": "General Knowledge",
       "type": "multiple",
       "difficulty": "easy",
-      "question": "Access Website that does not follow company policy? ",
-      "correct_answer": "Never",
+      "question": "How to use Internet Service in the office? ",
+      "correct_answer": "Only use it for bussiness purposes",
       "incorrect_answers": [
-        "Can Try",
-        "Maybe",
-        "Don't Know"
+        "For Social Media",
+        "News Reading",
+        "Personal Work"
       ]
     }
     
